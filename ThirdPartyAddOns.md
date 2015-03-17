@@ -1,0 +1,1 @@
+**This page has been moved to github: https://github.com/google/protobuf/wiki/Third-Party-Add-ons.**
